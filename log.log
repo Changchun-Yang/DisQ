@@ -1,0 +1,3 @@
+2022-06-28 19:54:54,146 INFO train_disen_t1_affine.py[line:386] : Epoch [1], Start [0], Step [1/500], Loss: 0.2874, Time [94.177(94.177)]
+2022-06-28 20:02:42,254 INFO train_disen_t1_affine.py[line:383] : Epoch [1], Start [0], Step [1/500], Loss: 0.2982, Time [93.673(93.673)]
+2022-06-28 20:18:17,204 INFO train_disen_t1_affine.py[line:382] : Epoch [1], Start [0], Step [1/500], Loss: 0.2922, Time [97.335(97.335)]
